@@ -1,6 +1,5 @@
 [
   {
-    "id": 1,
     "name": "Iron Man",
     "price": "$ 300",
     "rating": 3.4,
@@ -9,7 +8,6 @@
     "category": "marvel"
   },
   {
-    "id": 2,
     "name": "Super Man",
     "price": "$ 300",
     "rating": 4.4,
@@ -18,7 +16,6 @@
     "category": "marvel"
   },
   {
-    "id": 3,
     "name": "Car Robot",
     "price": "$ 400",
     "rating": 3.8,
@@ -27,7 +24,6 @@
     "category": "Transformers"
   },
   {
-    "id": 4,
     "name": "Robocop",
     "price": "$ 700",
     "rating": 5.5,
@@ -36,7 +32,6 @@
     "category": "Avengers"
   },
   {
-    "id": 5,
     "name": "Iron Man",
     "price": "$ 300",
     "rating": 3.4,
@@ -45,7 +40,6 @@
     "category": "marvel"
   },
   {
-    "id": 6,
     "name": "Iron Man",
     "price": "$ 300",
     "rating": 3.4,
@@ -54,7 +48,6 @@
     "category": "Star wars"
   },
   {
-    "id": 7,
     "name": "Batman",
     "price": "$ 100",
     "rating": 1.2,
@@ -63,7 +56,6 @@
     "category": "marvel"
   },
   {
-    "id": 8,
     "name": "G-one",
     "price": "$ 300",
     "rating": 3.4,
@@ -72,7 +64,6 @@
     "category": "Transformers"
   },
   {
-    "id": 9,
     "name": "Iron Man",
     "price": "$ 300",
     "rating": 2.6,
@@ -81,7 +72,6 @@
     "category": "Star wars"
   },
   {
-    "id": 10,
     "name": "Super Fast",
     "price": "$ 300",
     "rating": 1.4,
@@ -90,7 +80,6 @@
     "category": "marvel"
   },
   {
-    "id": 11,
     "name": "Super Man",
     "price": "$ 300",
     "rating": 4.4,
@@ -99,7 +88,6 @@
     "category": "marvel"
   },
   {
-    "id": 12,
     "name": "Car Robot",
     "price": "$ 400",
     "rating": 3.8,
@@ -108,7 +96,6 @@
     "category": "Transformers"
   },
   {
-    "id": 13,
     "name": "Robocop",
     "price": "$ 700",
     "rating": 5.5,
@@ -117,7 +104,6 @@
     "category": "Avengers"
   },
   {
-    "id": 14,
     "name": "Iron Man",
     "price": "$ 300",
     "rating": 3.4,
@@ -126,7 +112,6 @@
     "category": "marvel"
   },
   {
-    "id": 15,
     "name": "Iron Man",
     "price": "$ 300",
     "rating": 3.4,
@@ -135,7 +120,6 @@
     "category": "Star wars"
   },
   {
-    "id": 16,
     "name": "Batman",
     "price": "$ 100",
     "rating": 1.2,
@@ -144,7 +128,6 @@
     "category": "marvel"
   },
   {
-    "id": 17,
     "name": "G-one",
     "price": "$ 300",
     "rating": 3.4,
@@ -153,7 +136,6 @@
     "category": "Transformers"
   },
   {
-    "id": 18,
     "name": "Iron Man",
     "price": "$ 300",
     "rating": 2.6,
@@ -162,7 +144,6 @@
     "category": "Star wars"
   },
   {
-    "id": 19,
     "name": "Super Fast",
     "price": "$ 300",
     "rating": 1.4,
@@ -171,7 +152,6 @@
     "category": "marvel"
   },
   {
-    "id": 20,
     "name": "G-one",
     "price": "$ 300",
     "rating": 3.4,

@@ -43,6 +43,15 @@ async function run() {
         const result =await toyCollection.findOne(query)
         res.send(result)
   })
+  app.post('/toys', async(req,res)=>{
+    const newToy=req.body
+    // console.log(newUser)
+    const result = await toyCollection.insertOne(newToy);
+
+    // newUser.id=users.length+1,
+    // users.push(newUser)
+    res.send(result)
+  })
   
       // Send a ping to confirm a successful connection
       await client.db("admin").command({ ping: 1 });

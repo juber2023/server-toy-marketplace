@@ -53,6 +53,18 @@ async function run() {
       res.send(result)
     })
 
+    app.put('/toy/:id', async(req,res)=>{
+      const id=req.params.id;
+      const query={_id:new ObjectId(id)}
+      const options={upsert:true}
+      const toy=req.body
+      const updatedToy={
+        $set:{price:toy.price,available:toy.available,details:toy.details}
+      }
+      const result= await toyCollection.updateOne(query,updatedToy,options)
+      res.send(result)
+    })
+
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
     console.log(
